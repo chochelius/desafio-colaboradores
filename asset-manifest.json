@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bd-colaboradores/static/css/main.c2cab247.css",
+    "main.js": "/bd-colaboradores/static/js/main.6d3073ef.js",
+    "static/js/787.6ccba14e.chunk.js": "/bd-colaboradores/static/js/787.6ccba14e.chunk.js",
+    "index.html": "/bd-colaboradores/index.html",
+    "main.c2cab247.css.map": "/bd-colaboradores/static/css/main.c2cab247.css.map",
+    "main.6d3073ef.js.map": "/bd-colaboradores/static/js/main.6d3073ef.js.map",
+    "787.6ccba14e.chunk.js.map": "/bd-colaboradores/static/js/787.6ccba14e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.6d3073ef.js"
+  ]
+}
