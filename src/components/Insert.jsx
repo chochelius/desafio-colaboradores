@@ -27,6 +27,11 @@ const Insert = ({ onSubmit }) => {
 
     return (
         <div className="container">
+            <div className="row">
+                <div className="col">
+                    <h4>Agregar Colaborador</h4>
+                </div>
+            </div>
             {/* tabla para solicitar los campos */}
             <form onSubmit={saveColaborador}>
                 <div className="table-responsive">
