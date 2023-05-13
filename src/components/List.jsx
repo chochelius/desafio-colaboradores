@@ -1,8 +1,8 @@
 
 const List = ({ colaboradores, searchTerm = "" }) => {
-    // show colaboradores in reverse order (newest first)
+    // mostrar los colaboradores en orden descendente
     const colaboradoresSorted = colaboradores.sort((a, b) => b.id - a.id);
-    // filter colaboradores by searchTerm
+    //filtra los colaboradores por nombre, apellido, edad o email
     const filteredColaboradores = colaboradoresSorted.filter((colaborador) =>
         colaborador.nombre.toLowerCase().includes(searchTerm.toLowerCase())
         || colaborador.apellido.toLowerCase().includes(searchTerm.toLowerCase())

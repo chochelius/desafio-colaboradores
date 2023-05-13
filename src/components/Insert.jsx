@@ -81,6 +81,7 @@ const Insert = ({ onSubmit }) => {
                         </tbody>
                     </table>
                 </div>
+                {/* botón para enviar */}
                 <button type="submit" className="btn btn-primary">
                     Guardar
                 </button>
